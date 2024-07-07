@@ -69,7 +69,7 @@ The trained model was then saved using `pickle` and loaded into a compact versio
 
 ## Embedding a Video
 
-### [![Watch the video]()](https://youtu.be/0DvVL-GU_DE)
+[![Watch the video](https://img.youtube.com/vi/0DvVL-GU_DE/0.jpg)](https://www.youtube.com/watch?v=0DvVL-GU_DE)
 
 *Click the image to watch the demo video of the working app.*
 
